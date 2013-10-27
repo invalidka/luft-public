@@ -1,7 +1,7 @@
 luft-public
 ===========
 
-Luft Helpers
+http://luft.im
 
 Luft is a plugin that allows user identification on any domain on the web. Each website (domain name) has unique user group, and users are signed up and signed in via hand geometry recognition.
 
